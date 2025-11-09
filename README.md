@@ -1,5 +1,12 @@
 AI-powered car recommendation system with 91% accuracy using Machine Learning.
 
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-orange)
+![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-green)
+![NumPy](https://img.shields.io/badge/NumPy-1.21%2B-yellow)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-purple)
+![Random Forest](https://img.shields.io/badge/ML-Random%20Forest-red)
+
 📋 About
 Big Data Analytics project that recommends suitable cars based on user preferences from a dataset of 5000+ vehicles.
 
@@ -59,3 +66,4 @@ Test Data: 1000 samples
 Prathamesh Parab
 
 GitHub: Prathu270710
+
